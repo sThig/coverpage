@@ -1,4 +1,4 @@
-const jobs = [' a Designer', ' an Animator', ' a Developer'];
+const jobs = [' a Designer', ' an Animator', ' a Developer', ' a Creative'];
 let i = 0;
 
 setInterval(
