@@ -56,7 +56,8 @@ body {
   }
 
   .flex-item h1{
-    text-align: center;
+    text-align: left;
+    margin-left: 15%;
   }
 }
 
