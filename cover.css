@@ -49,8 +49,6 @@ footer {
   height:100%;
 }
 
-
-
 video {
 	position:absolute;
 	z-index:0;
@@ -75,8 +73,6 @@ video.fillWidth {
 }
 
 
-
-
 @media only screen and (min-width: 768px) {
   .flex-item{
     flex: 1;
@@ -98,7 +94,6 @@ video.fillWidth {
   .flex-item h1{
     text-align: none;
   }
-
 
   footer {
     font-size: 25px;
